@@ -9,8 +9,3 @@ Main task was to implement knowledge of Fundamentals of Programming and OOP to m
 Tkinter was used for GUI as only built-in libraries were allowed.
 
 [Gameplay video](https://drive.google.com/file/d/1E2SiZmOW6gKG4TyuFODg0FZwEuzjjKcM/view?usp=drivesdk)  
-
-Group Members:  
-Abdul Momin  
-Fatima  
-Hira Toheed  
