@@ -1,5 +1,6 @@
 # DanceUp
-Execute DanceUp.py to play the game.
+
+*Execute DanceUp.py to play the game.*  
 No need to install packages to play.
 
 
