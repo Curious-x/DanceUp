@@ -1,5 +1,8 @@
 # DanceUp
-First semester project of Fundamentals of Programming
+Execute DanceUp.py to play the game.
+No need to install packages to play.
 
+
+First semester project of Fundamentals of Programming:
 Main task was to implement knowledge of Fundamentals of Programming and OOP to make a game.
-Tkinter is for GUI used as only built-in libraries were to be used.
+Tkinter was used for GUI as only built-in libraries were allowed.
